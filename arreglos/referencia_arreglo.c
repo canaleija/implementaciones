@@ -3,6 +3,9 @@
 void modificarArreglo(int [], int);
 void imprimirArreglo(int [], int);
 void ordenarBurbuja(int [], int);
+float calcularPromedio(float [], int);
+int calcularMenor(int[], int);
+int calcularMayor(int[], int);
 
 int main()
 {
